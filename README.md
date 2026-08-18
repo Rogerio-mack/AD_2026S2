@@ -19,7 +19,7 @@
 
 ## Aula 2
 
-* Aula 2A Pandas
+* [Aula 2A Pandas](https://colab.research.google.com/drive/161FIusKPcyLs9kqD7PrnN4cRVYTZ23J7?usp=sharing)
 * Aula 2B Matplotlib
 
 * *Tipos de Dados; "Tidy" data; Exploração inicial dos dados; Estatísticas Descritivas; Pandas; Matplotlib.*
