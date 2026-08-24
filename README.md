@@ -26,13 +26,13 @@
 
 ## Aula 2
  
-* [Aula 2](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_02_Cars93_exploracao_inicial_solucao.ipynb) | [Aula 2 Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_02_Cars93_exploracao_inicial_solucao.ipynb)
+* [Aula 2](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_02_Cars93_exploracao_inicial_solucao.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_02_Cars93_exploracao_inicial_solucao.ipynb)
 
 * *Tipos de Dados; "Tidy" data; Exploração inicial dos dados; Estatísticas Descritivas; Pandas.*
 
 ## Aula 3
  
-* [Aula 3](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_03_CASchools_selecao_e_graficos.ipynb) | [Aula 3 Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_03_CASchools_selecao_e_graficos_solucao.ipynb)
+* [Aula 3](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_03_CASchools_selecao_e_graficos.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_03_CASchools_selecao_e_graficos_solucao.ipynb)
 
 * *Seleções de Dados; Gráficos; Histogramas e Boxplot; Outliers.*
 
