@@ -1,5 +1,8 @@
 # Análise de Dados
 
+- CC - *02D L12* - Terças-Feiras (7:30h)
+- CC - *02G L12* - Quartas-Feiras (7:30h)
+
 #### Referências úteis
 
 * [VanderPlas, Jake (2016). **Python Data Science Handbook**. O'Reilly Media, Inc.](https://jakevdp.github.io/PythonDataScienceHandbook)  
