@@ -11,9 +11,15 @@
 * [**MS Curriculum - Data Science For Beginners**](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Oliveira, R. (2022). **Visualizacao de Dados em Python**. Editora Mackenzie](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) | você encontra na [Editora Mackenzie](https://www.mackenzie.br/editora/livro/n/a/i/visualizacao-de-dados-com-python), [Amazon](https://www.amazon.com.br/VISUALIZA%C3%87%C3%83O-DADOS-PYTHON-ROGERIO-OLIVEIRA/dp/655545511X) ou [Martins Fontes](https://www.martinsfontespaulista.com.br/visualizacao-de-dados-com-python-997336/p)
 
-<br>
+#### Guias rápidos
 
-* [Some Classic Datasets](https://vincentarelbundock.github.io/Rdatasets/)
+* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Pandas Getting Started](https://pandas.pydata.org/docs/getting_started/index.html)
+ 
+#### Some Data Collections
+
+* [Some Classic R Datasets](https://vincentarelbundock.github.io/Rdatasets/)
+* [Scikit-learn Mood Datasets](https://github.com/INRIA/scikit-learn-mooc/tree/main/datasets)
 
 <br>
 
