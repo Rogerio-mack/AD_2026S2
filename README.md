@@ -42,3 +42,8 @@
 
 * *Seleções de Dados; Gráficos; Histogramas e Boxplot; Outliers.*
 
+## Aula 4
+
+* [Aula 4](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_04_HousePrice_Co2_Eletricity_graficos_e_correlacao.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_04_HousePrice_Co2_Eletricity_graficos_e_correlacao_solucao.ipynb)
+
+* *Gráficos de Dispersão; Correlação (Pearson); Script e Artist Layer; Merge*
