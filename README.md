@@ -47,3 +47,11 @@
 * [Aula 4](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_04_HousePrice_Co2_Eletricity_graficos_e_correlacao.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_04_HousePrice_Co2_Eletricity_graficos_e_correlacao_solucao.ipynb)
 
 * *Gráficos de Dispersão; Correlação (Pearson); Script e Artist Layer; Merge*
+
+* https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/IMT_Barplot_Energy_PDF_CDF.ipynb
+
+## Aula 5
+
+* [Aula 5](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_05_Barplot_Energy_PDF_CDF.ipynb)| [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_05_Barplot_Energy_PDF_CDF_solucao.ipynb)
+
+* *Gráficos de Barra; Inferência; Teorema Central do Limite; Amostras; Funções PDF, CDF e PPF* 
