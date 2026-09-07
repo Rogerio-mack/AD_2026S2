@@ -48,10 +48,10 @@
 
 * *Gráficos de Dispersão; Correlação (Pearson); Script e Artist Layer; Merge*
 
-* https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/IMT_Barplot_Energy_PDF_CDF.ipynb
-
 ## Aula 5
 
-* [Aula 5](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_05_Barplot_Energy_PDF_CDF.ipynb)| [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_05_Barplot_Energy_PDF_CDF_solucao.ipynb)
+* [Aula 5](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_05_Barplot_Energy_PDF_CDF.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_05_Barplot_Energy_PDF_CDF_solucao.ipynb)
 
-* *Gráficos de Barra; Inferência; Teorema Central do Limite; Amostras; Funções PDF, CDF e PPF* 
+* *Gráficos de Barra; Inferência; Teorema Central do Limite; Amostras; Funções PDF, CDF e PPF*
+
+* **Exercício avaliativo em 15 e 16.09.**
