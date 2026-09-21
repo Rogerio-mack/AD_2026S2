@@ -3,6 +3,8 @@
 - CC - **02D L12** - Terças-Feiras (7:30h)
 - CC - **02G L12** - Quartas-Feiras (7:30h)
 
+- [Planos de Ensino e Aulas](https://github.com/Rogerio-mack/AD_2026S2/tree/main/Planos%20de%20Ensino%20e%20Aulas)
+
 #### Referências úteis
 
 * [VanderPlas, Jake (2016). **Python Data Science Handbook**. O'Reilly Media, Inc.](https://jakevdp.github.io/PythonDataScienceHandbook)  
@@ -54,4 +56,17 @@
 
 * *Gráficos de Barra; Inferência; Teorema Central do Limite; Amostras; Funções PDF, CDF e PPF*
 
+## Aula 6
+
 * **Exercício avaliativo em 15 e 16.09.**
+* [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_06_avaliacao_solucao.ipynb)
+
+## Aula 7
+
+* [Aula 7](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_07_Regressao.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_07_Regressao_solucao.ipynb)
+
+* *Regressão linear simples e múltipla; Coeficiente de determinação, R2; colinearidade; hot-encode; significância dos coeficientes*
+
+## Aula 8
+
+* **Exercício avaliativo em 29 e 30.09: Testes, sem consulta.**
