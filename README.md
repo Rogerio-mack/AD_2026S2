@@ -58,8 +58,7 @@
 
 ## Aula 6
 
-* **Exercício avaliativo em 15 e 16.09.**
-* [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_06_avaliacao_solucao.ipynb)
+* **Exercício avaliativo em 15 e 16.09.** | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_06_avaliacao_solucao.ipynb)
 
 ## Aula 7
 
