@@ -68,4 +68,4 @@
 
 ## Aula 8
 
-* [**Exercício avaliativo em 29 e 30.09**](https://docs.google.com/forms/d/e/1FAIpQLScTfFoQ58EkFcrDQX1igdM8D-r6DVoh2fa2Un6UVahCjur-Qy/viewform?usp=dialog), *Sem consulta.* 
+* [**Exercício avaliativo em 29 e 30.09**](https://docs.google.com/forms/d/e/1FAIpQLScTfFoQ58EkFcrDQX1igdM8D-r6DVoh2fa2Un6UVahCjur-yQ/viewform?usp=dialog), *Sem consulta.* 
