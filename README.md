@@ -68,4 +68,10 @@
 
 ## Aula 8
 
-* [**Exercício avaliativo**](https://docs.google.com/forms/d/e/1FAIpQLScwPGkbhF9E4nqM3CN7GcYVrGK7LnPldo4yIWR4HUEbrVdR8w/viewform?usp=dialog), *Sem consulta.* 
+* [**Exercício avaliativo**](https://docs.google.com/forms/d/e/1FAIpQLScwPGkbhF9E4nqM3CN7GcYVrGK7LnPldo4yIWR4HUEbrVdR8w/viewform?usp=dialog), *Sem consulta.*
+
+## Aula 9
+
+* [Aula 9](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_09_Distribuicoes.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_09_Distribuicoes_solucao.ipynb)
+
+* *Distribuições de probabilidade discretas e contínuas; Intervalos confiança; Cenários de Aplicação;*
