@@ -75,3 +75,7 @@
 * [Aula 9](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_09_Distribuicoes.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_09_Distribuicoes_solucao.ipynb)
 
 * *Distribuições de probabilidade discretas e contínuas; Intervalos confiança; Cenários de Aplicação;*
+
+## Aula 10
+
+* [Aula 10](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_10_Testes_de_Hipoteses.ipynb) | Solução
