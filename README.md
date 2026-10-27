@@ -86,6 +86,8 @@
 
 * [Aula 11](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_11_Exercicios_Testes_de_Significancia.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_11_Exercicios_Testes_de_Significancia_solucao.ipynb)
 
+* [An Introduction to Statistics: Choosing the Correct Statistical Test](https://github.com/Rogerio-mack/AD_2026S2/blob/main/IJCCM-25-S184.pdf)
+
 * *Exercícios básicos; Flexibilidade dos pressupostos; Pressuposto da variância e t-Welch; ANOVA.*
 
 ## Aula 12 (03.11 e 04.11)
