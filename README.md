@@ -78,4 +78,29 @@
 
 ## Aula 10
 
-* [Aula 10](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_10_Testes_de_Hipoteses.ipynb) | Solução
+* [Aula 10](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_10_Testes_de_Hipoteses.ipynb) 
+
+* *Testes de significância; Testes unilaterais e bilaterais; p-value e estatística do teste; área de aceite H0 e rejeição*
+
+## Aula 11  
+
+* [Aula 11](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_11_Exercicios_Testes_de_Significancia.ipynb) | [Solução](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_11_Exercicios_Testes_de_Significancia_solucao.ipynb)
+
+* *Exercícios básicos; Flexibilidade dos pressupostos; Pressuposto da variância e t-Welch; ANOVA.*
+
+## Aula 12 (03.11 e 04.11)
+
+* **Exercício avaliativo: Distribuições e Testes de Significância**, *Sem consulta.*
+
+## Aula 13  
+
+* *Exercícios: Testes de Significância, Testes de Pressupostos e Probabilidade Condicional.*
+
+## Aula 14  
+
+* *Exercícios: Testes de Significância e Testes não paramétricos.*
+
+## Aula 15 (27.11 e 28.11)
+
+* **Exercício avaliativo: Distribuições, Testes de Significância Paramétricos e não Paramétricos e e Probabilidade Condicional.**, *Sem consulta.*
+
