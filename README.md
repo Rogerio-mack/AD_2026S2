@@ -92,7 +92,7 @@
 
 ## Aula 12 (03.11 e 04.11)
 
-* **Exercício avaliativo: Distribuições e Testes de Significância**, *Sem consulta.*
+* **[Exercício avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSciSLs-VlwQi5g0hFMSSRBf5CL9SbrtqGloZvK2n7TI1mugVg/viewform?usp=dialog): Distribuições e Testes de Significância**, *Sem consulta.*
 
 ## Aula 13  
 
