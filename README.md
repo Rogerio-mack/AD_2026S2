@@ -96,11 +96,15 @@
 
 ## Aula 13  
 
-* *Exercícios: Testes de Significância, Testes de Pressupostos e Probabilidade Condicional.*
+* [Aula 13](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_13_Bayes_Cross_Tab.ipynb)
+
+* *Probabilidade Condicional, Cross-Tabs, Teorema de Bayes, Naive-Bayes.*
 
 ## Aula 14  
 
-* *Exercícios: Testes de Significância e Testes não paramétricos.*
+* [Aula 14]
+
+* *Testes não paramétricos.*
 
 ## Aula 15 (27.11 e 28.11)
 
