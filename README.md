@@ -102,9 +102,9 @@
 
 ## Aula 14  
 
-* [Aula 14]
+* [Aula 14](https://colab.research.google.com/github/Rogerio-mack/AD_2026S2/blob/main/Aula_14_Testes_nao_Parametricos_e_Sumario.ipynb)
 
-* *Testes não paramétricos.*
+* *Testes de normalidade e variância; Testes não paramétricos: Mann-Whitney U Test; Wilcoxon Signed-Rank Test; Kruskal-Wallis H Test; Testes de Correlação e Associação: Pearson, Spearman e $\Chi^2$; ANOVA: teste de Tukey.*              |
 
 ## Aula 15 (27.11 e 28.11)
 
