@@ -106,7 +106,7 @@
 
 * *Testes de normalidade e variância; Testes não paramétricos: Mann-Whitney U Test; Wilcoxon Signed-Rank Test; Kruskal-Wallis H Test; Testes de Correlação e Associação: Pearson, Spearman e Chi Quadrado; ANOVA: teste de Tukey.*             
 
-## Aula 15 (27.11 e 28.11)
+## Aula 15 (24.11 e 25.11)
 
 * **[Exercício avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSf8srjdwxqgJgt60QshDAFeszwlX-tbsO0LJa4M3kw7HWYaig/viewform?usp=dialog): Distribuições, Testes de Significância Paramétricos e não Paramétricos e e Probabilidade Condicional.**, *Sem consulta.*
 
