@@ -108,5 +108,5 @@
 
 ## Aula 15 (27.11 e 28.11)
 
-* **Exercício avaliativo: Distribuições, Testes de Significância Paramétricos e não Paramétricos e e Probabilidade Condicional.**, *Sem consulta.*
+* **[Exercício avaliativo](https://docs.google.com/forms/d/e/1FAIpQLSf8srjdwxqgJgt60QshDAFeszwlX-tbsO0LJa4M3kw7HWYaig/viewform?usp=dialog): Distribuições, Testes de Significância Paramétricos e não Paramétricos e e Probabilidade Condicional.**, *Sem consulta.*
 
